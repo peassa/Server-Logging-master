@@ -9,9 +9,6 @@ A FiveM Plugin
 5. Start the plugin
 6. Have fun!
 
-For more information goto:
-https://forum.fivem.net/t/server-log-discord-webhook/482062
-
 # Working on
 Currently om working on `feature-icon` and `feature-rip`
 
